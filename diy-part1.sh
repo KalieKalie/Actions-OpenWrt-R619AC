@@ -22,4 +22,4 @@ git clone https://github.com/destan19/OpenAppFilter.git
 git clone https://github.com/zzsj0928/luci-app-serverchand
 git clone https://github.com/tty228/luci-app-serverchan
 git clone https://github.com/siropboy/luci-theme-btmod 
-
+git clone https://github.com/liuran001/openwrt-packages.git
